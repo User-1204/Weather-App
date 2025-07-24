@@ -1,0 +1,4 @@
+requests # HTTP library for Python
+Pillow # Python Imaging Library
+geocoder # Geocoding library
+python-dotenv # For loading environment variables from .env files
