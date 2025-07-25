@@ -141,7 +141,7 @@ A window will open. Enter a city or click **Detect Location**, then press **Get 
 
 ## Demo Video
 
-
+https://www.linkedin.com/posts/sakshii125_python-internship-oasisinfobyte-activity-7354382313222250496-D6k3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlzQCEBcgHpQxLz_XBWlVGbkhDirbT-r5Y
 
 
 ## GUI Preview
