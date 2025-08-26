@@ -139,11 +139,6 @@ A window will open. Enter a city or click **Detect Location**, then press **Get 
 * Display forecast charts or graphs
 
 
-## Demo Video
-
-https://www.linkedin.com/posts/sakshii125_python-internship-oasisinfobyte-activity-7354382313222250496-D6k3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlzQCEBcgHpQxLz_XBWlVGbkhDirbT-r5Y
-
-
 ## GUI Preview
 
 <img width="520" height="912" alt="Image" src="https://github.com/user-attachments/assets/91ae490e-9bf1-4037-97ce-4e247118e01a" />
